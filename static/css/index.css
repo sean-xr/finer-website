@@ -45,6 +45,13 @@ body {
   margin: 0 auto;
 }
 
+.general-figure {
+  display: block;
+  max-width: 40%;
+  height: auto;
+  margin: 0 auto;
+}
+
 .carousel-image-wrap {
   width: 75%;
   max-width: 900px;
